@@ -49,6 +49,7 @@ public/
 # Build output
 dist/
 build/
+out/
 
 # TypeScript cache
 *.tsbuildinfo
